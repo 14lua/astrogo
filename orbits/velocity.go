@@ -2,7 +2,7 @@ package orbits
 
 import (
 	"math"
-	"github.com/14lua/astronomy-lib/globals"
+	"github.com/14lua/astrogo/globals"
 )
 
 func CircularVelocity(massKg1, massKg2, radiusFromBarycenterMeters float64) (orbitalVelocity float64) {

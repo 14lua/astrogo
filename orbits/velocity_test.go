@@ -3,7 +3,7 @@ package orbits
 import (
 	"math"
 	"testing"
-	"github.com/14lua/astronomy-lib/globals"
+	"github.com/14lua/astrogo/globals"
 )
 
 func TestCircularVelocity(t *testing.T) {
